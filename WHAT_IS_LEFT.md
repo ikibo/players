@@ -2,6 +2,7 @@
 
 ### Yet to be done
 
+* data cleansing, a procedure of data load  that helps in prevention of invalid data with good logging
 * liquibase scripts for managing DB versioning : ddl, plus data load
 * finish service layer DTOs
 * finish REST layer DTOs

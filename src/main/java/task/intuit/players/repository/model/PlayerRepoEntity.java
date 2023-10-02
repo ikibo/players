@@ -16,8 +16,6 @@ import lombok.NoArgsConstructor;
 import java.time.LocalDate;
 
 @Data
-@Builder
-@AllArgsConstructor
 @NoArgsConstructor(force = true)
 @Entity
 @Table(name = "player")
